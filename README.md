@@ -9,6 +9,9 @@ The program is not optimized, just very plain to be most transparent what is hap
 
 Use cc65 to compile.
 
+![Alt text](/screen1.png?raw=true "Screen1")
+![Alt text](/screen2.png?raw=true "Screen1")
+
 ---------------------------------------------------------
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
