@@ -10,7 +10,7 @@ The program is not optimized, just very plain to be most transparent what is hap
 Use cc65 to compile.
 
 ![Alt text](/screen1.png?raw=true "Screen1")
-![Alt text](/screen2.png?raw=true "Screen1")
+![Alt text](/screen2.png?raw=true "Screen2")
 
 ---------------------------------------------------------
 
